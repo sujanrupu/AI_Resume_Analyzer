@@ -17,7 +17,7 @@ import java.net.http.HttpResponse;
 @Service
 public class AnalyzerService {
 
-    private static final String GEMINI_API_KEY = "AIzaSyBV-WuZ4o2Ja57tgdGZQlfQoxy07Fmy9Zg";
+    private static final String GEMINI_API_KEY = "";
 
     public String process(MultipartFile file, String jd) {
         String resumeText = extractPdfText(file);
