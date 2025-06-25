@@ -6,6 +6,12 @@ An AI-powered Resume Analyzer that extracts key information from resumes and pro
 
 ---
 
+## 📷 Demonstration:
+
+[> *https://drive.google.com/file/d/1PeXmc7mPM5tIzdCtNnOtpX5TBPcVGFkU/view*](https://drive.google.com/file/d/1PeXmc7mPM5tIzdCtNnOtpX5TBPcVGFkU/view)
+
+---
+
 ## 🚀 Features
 
 - 📄 Upload resumes in text or PDF format  
@@ -77,11 +83,7 @@ Ensure backend runs on port **8080** (or adjust as needed)
 
 ---
 
-## 📷 Screenshots
 
-> *Add screenshots of the app showing uploaded resume and extracted sections here*
-
----
 
 ## ✨ Future Improvements
 
