@@ -5,7 +5,7 @@
 An AI-powered Resume Analyzer that extracts key information from resumes and provides structured insights to help job seekers or recruiters quickly assess resumes.
 
 ---
-## Deployment: 
+## 🚀 Deployment: 
 [> *https://ai-resume-frontend-gilt.vercel.app/*](https://ai-resume-frontend-gilt.vercel.app/)
 
 ## 📷 Demonstration Video:
