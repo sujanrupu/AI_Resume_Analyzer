@@ -12,6 +12,18 @@ An AI-powered Resume Analyzer that extracts key information from resumes and pro
 
 ---
 
+## 🔑 Configure Gemini API Key:
+
+To enable AI feedback, navigate to: backend/src/main/java/com/resumeanalyzer/service/AnalyzerService.java
+
+Locate the following line:
+
+```java
+private static final String GEMINI_API_KEY = "YOUR_API_KEY_HERE";
+➡️ Replace "YOUR_API_KEY_HERE" with your actual Gemini API key
+
+---
+
 ## 🚀 Features
 
 - 📄 Upload resumes in text or PDF format  
