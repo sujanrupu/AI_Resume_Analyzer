@@ -6,7 +6,7 @@ An AI-powered Resume Analyzer that extracts key information from resumes and pro
 
 ---
 
-## 📷 Demonstration:
+## 📷 Demonstration Video:
 
 [> *https://drive.google.com/file/d/1PeXmc7mPM5tIzdCtNnOtpX5TBPcVGFkU/view*](https://drive.google.com/file/d/1PeXmc7mPM5tIzdCtNnOtpX5TBPcVGFkU/view)
 
